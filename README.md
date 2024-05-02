@@ -103,3 +103,28 @@
     - Fundemental data skills exist for the data governance journey.
     - The IT organization is capable and resourced to support the program.
 </details>
+
+
+<details>
+<summary> Charpter 2 : Exploring a world overflowing with data </summary>
+<br>
+
+## Defining Data
+### Why all the focus on data?
+- Data refers to collections of digitally stored units.
+- Data is also defined based on its captured formT.
+  - structured : formatted to a set structure, fits nicely intoa table, ready for analysis.
+  - unstructure : stored in native format must be processed to be used.
+  - semi-structured : Data that contains additional information to enable the native format to be searched and analyzed.
+
+## Welcome to the Zettabyte Era
+
+## From Data to Insight
+- 
+![image](https://github.com/sabelosiba/DataGovernance-Accelerator/assets/88839789/55cd20f0-b597-4ccd-9925-64999f3ed284)
+
+![image](https://github.com/sabelosiba/DataGovernance-Accelerator/assets/88839789/b0bfd6c0-c0ff-4e36-b669-fdfca309e814)
+
+
+  
+</details
