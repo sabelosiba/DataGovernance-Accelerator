@@ -120,11 +120,58 @@
 ## Welcome to the Zettabyte Era
 
 ## From Data to Insight
-- 
+- The difference between Data and Information
 ![image](https://github.com/sabelosiba/DataGovernance-Accelerator/assets/88839789/55cd20f0-b597-4ccd-9925-64999f3ed284)
 
+- The journey from data to insight.
 ![image](https://github.com/sabelosiba/DataGovernance-Accelerator/assets/88839789/b0bfd6c0-c0ff-4e36-b669-fdfca309e814)
 
+## The role of Data in the 21st Century
+## Data-Driven Decision Making
+## Data as the New Oil
+- data must be organized and analyzed to understand patterns, make decisions, identify problems and feed other systems.
+
+## Data Ownership
+- describes the rights a person or organization has over one or more data sets.
+
+## Data Architecture
+- Enterprise Architecture (EA) is when designing the technical needs of an organization to support its business strategy.
+- Using standards and established principles, organizations can analyze, design, plan, and implement the right technologies, policies, and projects to support business goals.
+- A subset of EA is data architecture.
+- Data architecture is the agreed blueprint for how data supports an organization’s functions and technologies.
+- Data architecture supports:
+  - ensuring data is available to those who need it and approved to use it.
+  - Reducing the complexity of accessing and utilizing data
+  - Creating and enforcing data protections to support organizational policies and obligations
+  - Adopting and agreeing to daa standards
+  - Optimizing the flow and eefient use of data to eliminate bottlenecks and duplication.
+
+  ## The Lifecycle of Data
+  1. Creation : Manual or automated data get created internally or externally.
+  2. Storage : data must be stored, most likely in database, also database needs a home as local drive, server or cloud service.
+  3. Usage : Data may need to be processed to useful. including cleaning it of errors, transforming it to another format and securing access rights
+  4. Archival : data not currently used moved to long term term storage system out of production environment. in future can be retrieved and utilized.
+  5. Destruction : make data inaccessible and unreadable. it can be physical destruction of a device such as a hard drive.
+
+  *The idea that data is in different states at different times is an essential context of data governance. Depending on the stage of its life, data may be treated differently and have unique requirements.*
+
+## Understanding the impact of Big Data
+### The role of the U.S. Census in the information revolution
+- d
+
+## Defining Big Data
+- Big data is structured and unstructured data that is so massive and complex in scale, that it’s difficult and often impossible to process via traditional data management techniques.
+- Define and characterize big data :
+  - Volume :
+  - Variety :
+  - Velocity :
+  - Variability :
+  - Veracity :
+ 
+### Drivers of Big Data
+- f
+
+### Consequences of Big Data
 
   
 </details
