@@ -84,5 +84,22 @@
 - To start, assess the maturity of your organizations data culture.
 
 ## Maturing the Data Culture
-- 
+- To better prepare the organization for data governance by maturing the data culture.
+  - Help leaders communicate the value of data.
+  - Provide basic tools and education for data use that include manipulating data, analytics, data cleansing, basic query commands and visualization.
+  - Do something to show progress.
+  - provide a channel for feedback and positive discussion.
+ 
+  ## Assessing Data Governance Readiness
+  - Before begin designing data governance consider determining if organization is ready for data governance program.
+  - data governance readiness
+    - Tha basic data culture exists
+    - Program 100% aligned with business strategy
+    - Senior leadership is 100% committed to the program and its goals.
+    - Senior Leadership understands this is a strategic, enterprise program
+    - The program has the commitment to fund its creation and to maintain it in the long term.
+    - You have documented the ROI
+    - Legal and compliance teams understand and support the goals of the program
+    - Fundemental data skills exist for the data governance journey.
+    - The IT organization is capable and resourced to support the program.
 </details>
