@@ -162,16 +162,49 @@
 ## Defining Big Data
 - Big data is structured and unstructured data that is so massive and complex in scale, that it’s difficult and often impossible to process via traditional data management techniques.
 - Define and characterize big data :
-  - Volume :
-  - Variety :
-  - Velocity :
-  - Variability :
-  - Veracity :
+  - Volume : the scale of data being produced is unorecedented and requires new tools, skills and processes.
+  - Variety : new formats emerg all the time, requires different methods of handling from analysis to security
+  - Velocity : data is moving at increasing speed.
+  - Variability : The fact that the creation and flow of data are unpredictable.
+  - Veracity : The quality, accuracy and truthfulness of large volume of different sets of data differ, causing challenges to data management.
  
 ### Drivers of Big Data
-- f
+- the world creating more data each data which is more than all the data created since the dawn of civiliation.
 
 ### Consequences of Big Data
+- Even assuming data is good quality
+  - its not easily accessible
+  - its not easy to analyze
+- 80% of data is unstructured
+- a lot of data has duplicates
+- some data is bad, has errors, cannot be trusted
 
+### What about small data?
+- spreadsheets, short surveys and go-to lists
+
+### Enter the realm of Smart Data
+- Smart has emerged as a new term that defines big data thats been optimally prepared for use to deliver highest usiness value.
+- Smart data uses new processes and tools to make the data most useful.
+- Analytics applications can use high-quality real-time data generated in a manufacturing setting.
   
+
 </details
+
+
+<details>
+<summary> Charpter 3 : Driving value through Data </summary>
+<br>
+
+## Identifying the roles of data
+- its critical to ensure that data is high quality, secure, compliant and accessible to the right peaople at the right time.
+
+## Operations
+- Business operations concern with deffirent set of activities to run the day to day needs and drives the mission of an organization.
+- Operations use data to make decisions, enable systems to run, and deliver data to internal and external entities.
+
+## Strategy 
+- This is creating a plan that supports objectives and goals.
+- Understanding the challenges to delivering on the organizations purpose and then agree to solutions.
+- Strategy leads to implementation and requires the support of operations to realize its goals.
+  
+</details>
