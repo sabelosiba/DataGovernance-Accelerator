@@ -188,7 +188,7 @@
 - Analytics applications can use high-quality real-time data generated in a manufacturing setting.
   
 
-</details
+</details>
 
 
 <details>
@@ -206,5 +206,24 @@
 - This is creating a plan that supports objectives and goals.
 - Understanding the challenges to delivering on the organizations purpose and then agree to solutions.
 - Strategy leads to implementation and requires the support of operations to realize its goals.
-  
+
+
+## Decision Making
+- Within organizations, access to large quantity data and information has resulted in quicker and better-quality business decisions.
+
+## Measuring
+- Organizations are in a continuous state of measurement, Every observed unit of data contributes to building a picture of the business.
+- Data measurements can be quantitative or qualitative.
+
+## Monitoring 
+- This is an on going process of collecting and evaluating the performance of item of interest, project or system.
+- Monitoring helps to ensure the continuity, stability and reliability of that being supervised.
+- The data produced through monitoring feeds reports, reeal-time systems and software-based dashboards.
+- monitoring is another process thats converts data into insight
+- you have to *measure* something that you want to *monitor* 🤝
+-
+
+## Insight management
+- begins with gathering and analyzing data from different sources, In order determine wat data process.
+- involves designing and creating the most effective manner to communicate findings.
 </details>
