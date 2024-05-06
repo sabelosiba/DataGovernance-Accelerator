@@ -281,3 +281,12 @@
   - Policies : a data policy contains set of adopted rules that handle data in specific condintions and for particular outcomes. policies apply in quality, privacy and security.
   - Metrics : consinde how each policy is measured. Metrics must be in support of both technical and business needs.
 </details>
+
+<details>
+<summary> Charpter 4 : Transforming Through Data </summary>
+<br>
+ 
+## Examining the Broader value of Data
+- Dta democratization - is the ability of team members to access data they need for their work, without relying on specialists.
+- 
+</details>
