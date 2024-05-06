@@ -271,4 +271,13 @@
 **Who would choose to make decisions based on bad data?**
 - Poor data management results in security and compliance issues, error in data sets and low confidence in the quality of data.
 - On other hand, good data management result in reduced data security breaches and lower compliance, regulatory and private issues.
+- Data management processess involve the collection, storage, organization, maintenance and analytics of an organization.
+- responsibilities include data standarduzation, encrytion and archiving.
+
+## Governing Data
+- means that some level of control exists to support a related policy.eg back-up daily data and control is documentation.
+- The success og=f governing data can be reduced to 3 factors:
+  - People : people are defining, designing and maintaning data use. And responsible for quality.
+  - Policies : a data policy contains set of adopted rules that handle data in specific condintions and for particular outcomes. policies apply in quality, privacy and security.
+  - Metrics : consinde how each policy is measured. Metrics must be in support of both technical and business needs.
 </details>
