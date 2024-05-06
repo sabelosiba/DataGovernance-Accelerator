@@ -226,4 +226,49 @@
 ## Insight management
 - begins with gathering and analyzing data from different sources, In order determine wat data process.
 - involves designing and creating the most effective manner to communicate findings.
+
+## Reporting
+- are online or physical presentations of data and information on some aspect of an organization. e.g sales of a product during specific period
+- purpose of reporting is largely about iimporved decision-making.
+
+## Other Roles of Data
+- Artificial intelligence (AI) : it is from the data that AI learns patterns and determines probabilities.
+- Problem-solving : Data plays a role in how a problem is defined, determine solutions available, evaluate solution to use and measure the success or failure of the solution applied.
+- Data reuse : reduces data collection dulication and increase the value of data
+
+## Improving Outcomes with Data
+
+## Approaching Data anas Asswet
+- An asset is something owned by a person. organization with expectation to bring economic benefit.
+- includes generation of income, reduction of expenses or increase in net worth.
+- Asset can be tangible or intangible:
+  - tangible ( physical ) : inventory and property.
+  - intangible : copyrights
+- Data is intangible
+- economic value of data :
+  - improves operations
+  - increases existing revenue
+  - reduces risk
+  - builds relationships with customers and stakeholders
+  - improve quality of products and services.
+  - enables innovation
+
+## Data analytics
+- Basics steps in data analysis
+  ![image](https://github.com/sabelosiba/DataGovernance-Accelerator/assets/88839789/c77c6799-ea38-447e-b7d6-6c7c422efaa5)
+
+- four types of data analytics :
+  - Descriptive : It is insight on past performance.
+  - Diagnostic : answer to “Why did this happen?” by taking a more in-depth look at data to uncover subtle patterns.
+  - Predictive : use techniques to find patterns and make predictions about the future.
+  - Prescriptive : focuses on what action should be taken from predicted trends
+
+## Data management
+- Data management is the implementation of data governance
+- *Data governance is defining the roles, policies, controls and processes for increasing the quality and value of organization data*
+- you collect and store data, you are technically managing it.
+  
+**Who would choose to make decisions based on bad data?**
+- Poor data management results in security and compliance issues, error in data sets and low confidence in the quality of data.
+- On other hand, good data management result in reduced data security breaches and lower compliance, regulatory and private issues.
 </details>
