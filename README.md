@@ -287,6 +287,51 @@
 <br>
  
 ## Examining the Broader value of Data
-- Dta democratization - is the ability of team members to access data they need for their work, without relying on specialists.
-- 
+- Data democratization - is the ability of team members to access data they need for their work, without relying on specialists.
+- A data silo is data repository controlled by an entity in an organization but not known/shared by other parts of the business.
+- data silos reduce collaboration and increase data inconsistencies, also they source of risk including security and regulatory issues.
+- data governance helps eliminate data unnecessary data siloes.
+
+## Data catalogs
+- *how members can find data*
+- method of data discoverability is the creation of an enterprrise data catalog.
+- e.g store catalog of product details
+- 3 benefits of data catalogs:
+  - Finding data : helps users identify and locate data that is useful.
+  - Understanding data : answers data questions the purpose and data user
+  - Making data more useful : creats visibility, describe value and provides access to information.
+
+- data catalog cointains data about the data called metadata
+- 3 types of metadata in a data catalog:
+  - Technical metadata : Data about the design of a data set. e.g tables,files names
+  - Business metadata : organizational data such as business description, assessment of data quality
+  - Operational metadata : Data such as when the data was last accessed, who accessed it and when was it last backed up.
+ - Metadata examples : filenames, file locations, data owners & stewards, data descriptions, dates created & last modified, list of database tabkes and views.
+
+- with data catalog, an ot=rganization can :
+  - reduce data duplication
+  - increase operational effeciencies and innovation
+  - understand data quality
+  - manage compliance
+
+## From Data to Insight
+- actionable data is the most valuable data to an organization.
+
+## Data analytics
+- Data analysis is identifying data set. examining it and reporting on findings. its a subset of data analytics
+- Dta analytics is science that involves collectiong, cleaning, organization, storing and analyzing data
+- The source of data for analytics is one or combination of :
+  - First-party data : data that an organization collects.
+  - Second-party : obtained from another organization
+  - Thrird-party : aggregated data obtained from a provider
+
+## Data Monetization
+- data valuation - without a process to place a price on a data set.
+- data monetization - is when data provides an economic benefit to an organization
+- data valuation is a requirement for data monetization such as selling or licensing data.
+- ways to determine data valuation:
+  - Cost value method : value is calculated by determining how much it costs to produce,store and replace lost data.
+  - Market value approach : value is calculated by researching how comparable data is being priced in open market.
+  - Economic value approach : calculated by measuring the impact a data set has on the business bottom line.
+  - With-and-without method : claculated by quantifying the impact on cash flow if a data set needs to be replaced.
 </details>
