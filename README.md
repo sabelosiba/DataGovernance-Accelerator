@@ -2,7 +2,7 @@
 
 <details>
 <summary> Charpter 1 : Defining Data Governance </summary>
-<br>
+<br>                                                                                         
 
 ## What is Governance
 - is manner an entity chooses to oversee the control and direction of an area of interest.
