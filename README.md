@@ -334,4 +334,8 @@
   - Market value approach : value is calculated by researching how comparable data is being priced in open market.
   - Economic value approach : calculated by measuring the impact a data set has on the business bottom line.
   - With-and-without method : claculated by quantifying the impact on cash flow if a data set needs to be replaced.
+ 
+## Data-Driven Descision Making
+- is process of using data to drive business decisions.
+- 
 </details>
