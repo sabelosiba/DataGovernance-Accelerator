@@ -337,5 +337,18 @@
  
 ## Data-Driven Descision Making
 - is process of using data to drive business decisions.
-- 
+- DDDM needs data culture
+- Ensuring the right people can use the right data at the right time requires data security and data use policies
+- Six-step process to DDDM:
+  1. Define the Objectives : relative with orgganizational goals. help scope the work and define metrics.
+  2. Identify the data : in addition to using data catalogue, enterprise search this requires engaging with impacted stakeholders. also consult data stewards, data owners
+  3. Prepare the data : use deep data science skills to prepare the data for use
+  4. Analyze the data : complex analysis and continuous efforts used, include support for ETL architecture. To analyze this data need visualizations.
+  5. Determine the findings : once data is displayed in variety of ways, you can ask questions about it.
+  6. Take action : Make your decisions.
+ 
+## Developing a Data Strategy for Improved Results
+- *Why does every organization need a data strategy?*
+  - The purpose of any type of strategy is to agree on a set of guiding principles that inform decision-making in support of a desired outcome.
+  -  In simple terms, it’s the roadmap on how to reach your goals.
 </details>
