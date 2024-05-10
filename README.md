@@ -255,6 +255,7 @@
 
 ## Data analytics
 - Basics steps in data analysis
+  
   ![image](https://github.com/sabelosiba/DataGovernance-Accelerator/assets/88839789/c77c6799-ea38-447e-b7d6-6c7c422efaa5)
 
 - four types of data analytics :
